@@ -1,0 +1,5 @@
+config { type: "operations",
+        tags: ["bbin_hall"] }
+
+
+ ${dataTransfer_bbin_to_hall_dw_routin.insert_Login()}
